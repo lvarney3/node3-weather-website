@@ -105,7 +105,7 @@ app.get('/help/*', (req, res) => {
         title: '404',
         errorMsg: 'Help article not found',
         name: 'Lee'
-    })
+    }) 
     
 })
 
